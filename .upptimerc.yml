@@ -7,6 +7,8 @@ sites:
     url: https://api.cubiq.lat
   - name: enviQs API
     url: https://api.enviqs.com
+  - name: s3
+    url: https://s3.cubiq.lat/minio/health/live
 #  - name: Wikipedia
 #    url: https://en.wikipedia.org
 #  - name: Hacker News
