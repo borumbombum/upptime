@@ -5,6 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Cubiq API
     url: https://api.cubiq.lat
+  - name: enviQs API
+    url: https://api.enviqs.com
 #  - name: Wikipedia
 #    url: https://en.wikipedia.org
 #  - name: Hacker News
