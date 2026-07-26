@@ -23,7 +23,7 @@ status-website:
   # baseUrl: /your-repo-name
   baseUrl: /upptime
   logoUrl: https://s3.cubiq.lat/cubiq/cubiq-logo-white.svg
-  name: Cubiq APIs Status
+  name: APIs Status
   introTitle: "**Cubiq** Dev Lab & Backend-As-A-Service service for LATAM."
   introMessage: This is a sample status page which uses **real-time**.No server required — just GitHub Actions, Issues, and Pages.
   navbar:
