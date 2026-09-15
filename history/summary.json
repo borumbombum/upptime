@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 647,
-    "timeWeek": 639,
-    "timeMonth": 634,
-    "timeYear": 649,
+    "time": 647,
+    "timeDay": 528,
+    "timeWeek": 600,
+    "timeMonth": 635,
+    "timeYear": 647,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://api.enviqs.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.enviqs.com.ico",
     "slug": "envi-qs-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 658,
-    "timeWeek": 650,
-    "timeMonth": 613,
-    "timeYear": 871,
-    "dailyMinutesDown": {}
+    "time": 865,
+    "timeDay": 519,
+    "timeWeek": 618,
+    "timeMonth": 611,
+    "timeYear": 865,
+    "dailyMinutesDown": {
+      "2026-09-15": 0
+    }
   },
   {
     "name": "s3",
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 634,
-    "timeWeek": 676,
-    "timeMonth": 641,
-    "timeYear": 842,
+    "time": 837,
+    "timeDay": 574,
+    "timeWeek": 630,
+    "timeMonth": 643,
+    "timeYear": 837,
     "dailyMinutesDown": {}
   }
 ]
