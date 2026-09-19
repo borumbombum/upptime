@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 5618,
-    "timeWeek": 1308,
-    "timeMonth": 801,
-    "timeYear": 732,
+    "time": 731,
+    "timeDay": 712,
+    "timeWeek": 1337,
+    "timeMonth": 805,
+    "timeYear": 731,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.enviqs.com.ico",
     "slug": "envi-qs-api",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.15%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "99.62%",
-    "time": 849,
-    "timeDay": 648,
-    "timeWeek": 610,
-    "timeMonth": 617,
-    "timeYear": 849,
+    "uptimeYear": "99.63%",
+    "time": 846,
+    "timeDay": 679,
+    "timeWeek": 621,
+    "timeMonth": 618,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2026-09-15": 288
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 828,
-    "timeDay": 701,
-    "timeWeek": 633,
-    "timeMonth": 641,
-    "timeYear": 828,
+    "time": 825,
+    "timeDay": 662,
+    "timeWeek": 648,
+    "timeMonth": 644,
+    "timeYear": 825,
     "dailyMinutesDown": {}
   }
 ]
