@@ -1,7 +1,7 @@
 url: https://s3.cubiq.lat/minio/health/live
 status: up
 code: 200
-responseTime: 778
-lastUpdated: 2026-10-16T01:04:43.540Z
+responseTime: 512
+lastUpdated: 2026-10-17T01:11:12.562Z
 startTime: 2026-07-26T23:43:39.809Z
 generator: Upptime <https://github.com/upptime/upptime>
